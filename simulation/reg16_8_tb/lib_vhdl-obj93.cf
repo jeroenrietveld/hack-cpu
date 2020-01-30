@@ -1,7 +1,0 @@
-v 4
-file "/Users/jeroenrietveld/Projects/vhdl/cpu/" "tb/reg16_8_tb.vhd" "1ee31349953c754d03472d43f5c1e6590f7fba23" "20190626102748.870":
-  entity reg16_8_tb at 1( 0) + 0 on 11;
-  architecture behavior of reg16_8_tb at 11( 222) + 0 on 12;
-file "/Users/jeroenrietveld/Projects/vhdl/cpu/" "src/reg16_8.vhd" "37f1cc249ca69cd6b7043739268aef2667262ca5" "20190626102749.278":
-  entity reg16_8 at 1( 0) + 0 on 13;
-  architecture behavioral of reg16_8 at 18( 456) + 0 on 14;
