@@ -1,0 +1,3 @@
+-- type instruction is record
+--   opcode : std_logic;                   -- A (0) or C (1) instruction indicator
+--   comp : std_logic_vector(6 downto 0);  -- <[comment]>

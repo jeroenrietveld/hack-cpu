@@ -1,0 +1,7 @@
+v 4
+file "/Users/jeroenrietveld/Projects/vhdl/cpu_n2t/src/" "program_counter.vhd" "649348a074e5b6f9dc91a762f5d56ffd3c4b1089" "20190629190038.120":
+  entity program_counter at 1( 0) + 0 on 4;
+  architecture behavioral of program_counter at 15( 272) + 0 on 4;
+file "/Users/jeroenrietveld/Projects/vhdl/cpu_n2t/src/" "reg16_n.vhd" "57a320cf0587fd0515688b4a602fb5841fad3186" "20190627145529.605":
+  entity reg16_n at 1( 0) + 0 on 4;
+  architecture behavioral of reg16_n at 15( 295) + 0 on 4;
